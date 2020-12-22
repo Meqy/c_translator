@@ -36,4 +36,4 @@ c_compile(
     )
 ```
 
-start this code and module automatic generate compiled to bytecode by g++ file
+start this code and module automatic generate compiled to bytecode file by g++
