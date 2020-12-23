@@ -39,6 +39,6 @@ c_compile(
 start this code and module automatic generate compiled to bytecode file by g++
 
 ## Futures
-[ ] - Add code generating classes
-[ ] - Add support for compiling to node native addons
-[ ] - create OOP adaptive comp
+[#] - Add code generating classes
+[#] - Add support for compiling to node native addons
+[#] - create OOP adaptive comp
